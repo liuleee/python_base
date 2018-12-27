@@ -5,6 +5,7 @@
 my_dict = {'name':'zhang','age':18}
 print(my_dict,type(my_dict))
 
+
 #通过key获取对于value的值，key值在字典里面是唯一的
 
 value = my_dict['name']

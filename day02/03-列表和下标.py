@@ -4,6 +4,7 @@
 my_list = [1,1.22,'BC',True]
 print(my_list, type(my_list))
 
+
 #获取列表中的数据可以根据下标获取
 value = my_list[0]
 print(value)

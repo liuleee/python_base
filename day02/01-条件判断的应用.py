@@ -3,6 +3,7 @@
 score = int(input('请输入您的分数：'))
 # print(type(score))
 
+
 #2.判断学生的分数
 if score>=90 and score<=100:
     print('优秀')

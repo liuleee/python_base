@@ -7,6 +7,7 @@ print(my_dict,type(my_dict))
 
 #添加键值对，key不存在字典里面是添加
 
+
 my_dict['name'] = 'liulee'
 my_dict['age'] = 18
 my_dict['sex'] = '男'

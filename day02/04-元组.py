@@ -5,6 +5,7 @@
 my_tuple = (1,4,'abc','True',1.2)
 print(my_tuple,type(my_tuple))
 
+
 #根据下标取值
 value = my_tuple[-1]
 print(value)

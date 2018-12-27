@@ -7,6 +7,7 @@ while num < 6:
     num += 1
 
 
+
 #for循环一般会结果range使用，range是一种范围
 # for value in range(1,6):
     # print(value)
