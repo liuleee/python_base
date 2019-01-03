@@ -17,7 +17,7 @@ print(value)
 # my_tuple[0] = 2
 # print(my_tuple)
 
-my_tuple = [1,[2,5]]
+my_tuple = (1,[2,5])
 my_list = my_tuple[1]
 del my_list[0]
 print(my_tuple)
