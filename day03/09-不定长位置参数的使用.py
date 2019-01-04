@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-
 #定义不定长位置参数函数：
 def show_msg(*args):
     # print('show_msg:',args)

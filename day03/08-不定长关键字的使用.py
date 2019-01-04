@@ -5,8 +5,6 @@ def show_msg(**kwargs):
     for key, value in kwargs.items():
         print(key,value)
 
-
-
 # 定义不定长关键字函数
 
 def show(**kwargs):
