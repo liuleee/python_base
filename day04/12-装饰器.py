@@ -9,7 +9,7 @@ def decorator(new_func):
         new_func()
         #返回的函数是闭包
     return inner
-#在使用@decorator的时候装饰器的代码就会执行
+#在使用@decorator的时候装饰器的代码就会执行# show = decorator(show)
 @decorator
 #使用装饰器，装饰下面的函数
 def show():

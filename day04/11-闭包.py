@@ -26,7 +26,7 @@ def hello(msg,count):
 new_func1 = hello('A',2)
 new_func1()
 
-new_func2 = hello('A',2)
+new_func2 = hello('A',8)
 new_func2()
 
 print(new_func1,new_func2)
