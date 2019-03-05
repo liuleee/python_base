@@ -5,6 +5,7 @@
 # # file.close()
 #文件和文件夹操作相关的模块（py文件
 import os
+
 import shutil #文件操作的高级模块
 #重命名,提示：目标文件必须存在
 # os.rename('444.txt','4.txt')

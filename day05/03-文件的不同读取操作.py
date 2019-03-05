@@ -18,6 +18,7 @@ file_data = content.decode('utf-8')
 print(file_data)
 file.close()
 
+
 #根据指定的文件指针读取数据
 file = open('1.txt','rb')
 #查看文件指针的位置

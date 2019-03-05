@@ -8,6 +8,7 @@ src_file = open('3.txt',"rb")
 #扩展：可以指定拷贝后的文件路径
 dst_file = open('3[fil].txt','wb')
 #把源文件中的数据写入到目标文件
+
 #循环读取文件中的数据
 while True:
   file_data = src_file.read(1024)#不重复读取
