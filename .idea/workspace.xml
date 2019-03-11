@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa794861-f640-47dc-a7de-40127205070a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/13-多态.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/15-魔法方法__new__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/16-单例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/17-slots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/18-@property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/19-异常的介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/20-异常捕获.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day07/01-抛出自定义异常.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day07/02-模块的介绍.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day07/03-内置模块.py" afterDir="false" />
@@ -22,9 +15,6 @@
       <change afterPath="$PROJECT_DIR$/day07/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day07/test1_module.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day07/test_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_package/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_package/second.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,14 +130,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="py" value="19198" />
-          <entry key="txt" value="61" />
+          <entry key="py" value="19352" />
+          <entry key="txt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="78" />
-          <entry key="Python" value="19198" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="19352" />
         </counts>
       </usages-collector>
     </session>
@@ -235,8 +225,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day07/10-ByteIO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="187">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -636,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551952726520</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day06">
+      <created>1552298370156</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552298370156</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1128,8 +1125,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day07/10-ByteIO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
